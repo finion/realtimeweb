@@ -1,0 +1,12 @@
+{
+  "name": "realtimeweb",
+  "version": "1.0.0",
+  "description": "Demo for sharing",
+  "main": "app.js",
+  "author": "YenPu Chen",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^5.0.0-alpha.2",
+    "websocket": "^1.0.22"
+  }
+}
